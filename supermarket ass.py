@@ -10,7 +10,7 @@ gst_rate = 0.18  # Assuming 18% GST
 discount_rate = 0.1  # 10% discount
 def send_email(receiver_email, bill_amount):
     sender_email = "sathyagayu1976@gmail.com"  # Replace with your email address
-    sender_password = "sivasakthi"  # Replace with your email password
+    sender_password = "siva"  # Replace with your email password
     
     # Create the email content
     message = MIMEMultipart()
